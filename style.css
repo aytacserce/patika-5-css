@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+h2 {
+  color: white;
+  background-color: blueviolet;
+  padding: 10px;
+}
+
+.second-p {
+  text-transform: uppercase;
+}
+
+img {
+  height: 300px;
+  border-radius: 10px;
+}
+
+#red-p {
+  color: red;
+}
+
+#blue-p {
+  color: blue;
+}
+
+#green-p {
+  color: green;
+}
+
+#contact-heading {
+  font-family: sans-serif;
+  font-size: 72px;
+  font-style: italic;
+}
+
+#about-heading {
+  font-family: monospace;
+  font-weight: 400;
+}
